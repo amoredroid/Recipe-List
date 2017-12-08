@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recipe-List.iml" filepath="$PROJECT_DIR$/Recipe-List.iml" />
+      <module fileurl="file://C:\Users\Genson\Downloads\asus driver\Recipe-List\RecipeList.iml" filepath="C:\Users\Genson\Downloads\asus driver\Recipe-List\RecipeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Genson\Downloads\asus driver\Recipe-List\app\app.iml" filepath="C:\Users\Genson\Downloads\asus driver\Recipe-List\app\app.iml" />
+    </modules>
+  </component>
+</project>
